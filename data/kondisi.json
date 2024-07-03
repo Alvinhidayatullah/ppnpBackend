@@ -1,0 +1,94 @@
+{
+  "kondisi": [
+    {
+      "no": 1,
+      "item": "Truck Sampah",
+      "unit": 1,
+      "kondisi": "Baik"
+    },
+    {
+      "no": 2,
+      "item": "Truck Sampah",
+      "unit": 1,
+      "kondisi": "Rusak"
+    },
+    {
+      "no": 3,
+      "item": "Truck Tangki Air",
+      "unit": 1,
+      "kondisi": "Baik"
+    },
+    {
+      "no": 4,
+      "item": "Truck Craine",
+      "unit": 2,
+      "kondisi": "Baik"
+    },
+    {
+      "no": 5,
+      "item": "Truck Craine",
+      "unit": 1,
+      "kondisi": "Rusak"
+    },
+    {
+      "no": 6,
+      "item": "Selasar Pendaratan Ikan",
+      "unit": 1,
+      "kondisi": "Baik"
+    },
+    {
+      "no": 7,
+      "item": "Motor Sampah",
+      "unit": 4,
+      "kondisi": "Baik"
+    },
+    {
+      "no": 8,
+      "item": "Perahu Sampah",
+      "unit": 1,
+      "kondisi": "Rusak"
+    },
+    {
+      "no:": 9,
+      "item": "Kedalaman Kolam 1",
+      "unit": 2,
+      "kondisi": "Dangkal"
+    },
+    {
+      "no": 10,
+      "item": "Kedalaman Kolam 2",
+      "unit": 1,
+      "kondisi": "Dangkal"
+    },
+    {
+      "no": 11,
+      "item": "Kedalaman Kolam 1",
+      "unit": 2,
+      "kondisi": "Dangkal"
+    },
+    {
+      "no": 12,
+      "item": "Forklift",
+      "unit": 3,
+      "kondisi": "Rusak"
+    },
+    {
+      "no": 13,
+      "item": "Forklift",
+      "unit": 1,
+      "kondisi": "Baik"
+    },
+    {
+      "no": 14,
+      "item": "Amphibious",
+      "unit": 1,
+      "kondisi": "Baik"
+    },
+    {
+      "no": 15,
+      "item": "Dump Truck",
+      "unit": 1,
+      "kondisi": "Baik"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "negara": [
+    {
+      "no": 1,
+      "negaraTujuan": "Italia",
+      "berat": 2.363
+    },
+    {
+      "no": 2,
+      "negaraTujuan": "Thailand",
+      "berat": 1.343
+    },
+    {
+      "no": 3,
+      "negaraTujuan": "Spanyol",
+      "berat": 362
+    },
+    {
+      "no": 4,
+      "negaraTujuan": "Filipina",
+      "berat": 743
+    },
+    {
+      "no": 5,
+      "negaraTujuan": "Mauritius",
+      "berat": 338
+    },
+    {
+      "no": 6,
+      "negaraTujuan": "Tunisia",
+      "berat": 642
+    },
+    {
+      "no": 7,
+      "negaraTujuan": "Vietnam",
+      "berat": 322.32
+    },
+    {
+      "no": 8,
+      "negaraTujuan": "Portugal",
+      "berat": 36
+    },
+    {
+      "no": 9,
+      "negaraTujuan": "Turki",
+      "berat": 273
+    },
+    {
+      "no": 10,
+      "negaraTujuan": "Prancis",
+      "berat": 39
+    },
+    {
+      "no": 11,
+      "negaraTujuan": "Ekuador",
+      "berat": 352
+    }
+  ]
+}

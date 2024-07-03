@@ -1,0 +1,124 @@
+{
+  "kapal": [
+    {
+      "no": 1,
+      "namaKapal": "Setia Bhakti",
+      "volume": 21.28,
+      "nilai": "Rp.1.321.000"
+    },
+    {
+      "no": 2,
+      "namaKapal": "Maju Jaya 168",
+      "volume": 21.28,
+      "nilai": "Rp.1.687.000"
+    },
+    {
+      "no": 3,
+      "namaKapal": "Bintang Mas II",
+      "volume": 21.28,
+      "nilai": "Rp.2.363.000"
+    },
+    {
+      "no": 4,
+      "namaKapal": "Legi",
+      "volume": 85.234,
+      "nilai": "Rp.1.953.000"
+    },
+    {
+      "no": 5,
+      "namaKapal": "Aofa 03",
+      "volume": 74.765,
+      "nilai": "Rp.2.311.000"
+    },
+    {
+      "no": 6,
+      "namaKapal": "Lancar Jaya 1",
+      "volume": 42.28,
+      "nilai": "Rp.1.435.000"
+    },
+    {
+      "no": 7,
+      "namaKapal": "Lebar Jaya",
+      "volume": 53.753,
+      "nilai": "Rp.721.000"
+    },
+    {
+      "no": 8,
+      "namaKapal": "Bintang Utama 88",
+      "volume": 63.233,
+      "nilai": "Rp.1.235.000"
+    },
+    {
+      "no": 9,
+      "namaKapal": "Permata 3",
+      "volume": 32.533,
+      "nilai": "Rp.3.091.000"
+    },
+    {
+      "no": 10,
+      "namaKapal": "Jaya Mitra 7",
+      "volume": 76.633,
+      "nilai": "Rp.2.765.000"
+    },
+    {
+      "no": 11,
+      "namaKapal": "Indo Marina 5",
+      "volume": 42.632,
+      "nilai": "Rp.3.852.000"
+    },
+    {
+      "no": 12,
+      "namaKapal": "Indo Marina 8",
+      "volume": 31.431,
+      "nilai": "Rp.4.962.000"
+    },
+    {
+      "no": 13,
+      "namaKapal": "Jaya Mitra 5",
+      "volume": 64.87,
+      "nilai": "Rp.6.546.000"
+    },
+    {
+      "no": 14,
+      "namaKapal": "Jaya Mitra 2",
+      "volume": 96.521,
+      "nilai": "Rp.7.565.000"
+    },
+    {
+      "no": 15,
+      "namaKapal": "Cipta Baru Jaya 89",
+      "volume": 43.645,
+      "nilai": "Rp.5.112.000"
+    },
+    {
+      "no": 16,
+      "namaKapal": "Jaya Mitra VI",
+      "volume": 53.474,
+      "nilai": "Rp8.221.000"
+    },
+    {
+      "no": 17,
+      "namaKapal": "Cahaya Timur 88",
+      "volume": 34.3423,
+      "nilai": "Rp.5.227.000"
+    },
+    {
+      "no": 18,
+      "namaKapal": "Jaya Mitra 0",
+      "volume": 85.522,
+      "nilai": "Rp.4.331.000"
+    },
+    {
+      "no": 19,
+      "namaKapal": "Serba Prima 18",
+      "volume": 31.223,
+      "nilai": "Rp.9.131.000"
+    },
+    {
+      "no": 20,
+      "namaKapal": "Layla Marina III",
+      "volume": 31.313,
+      "nilai": "Rp.3.354.000"
+    }
+  ]
+}

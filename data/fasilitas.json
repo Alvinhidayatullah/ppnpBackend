@@ -1,0 +1,154 @@
+{
+  "fasilitas": [
+    {
+      "no": 1,
+      "namaItem": "Tutupan Sungai Panyairan",
+      "jenisFasilitas": "Pokok",
+      "luas": 373
+    },
+    {
+      "no": 2,
+      "namaItem": "Breakwater",
+      "jenisFasilitas": "Pokok",
+      "luas": 873
+    },
+    {
+      "no": 3,
+      "namaItem": "Dermaga Area Depo Pemasaran",
+      "jenisFasilitas": "Pokok",
+      "luas": 90
+    },
+    {
+      "no": 4,
+      "namaItem": "Gedung Depo Pemasaran Ikan",
+      "jenisFasilitas": "Penunjang",
+      "luas": 743
+    },
+    {
+      "no": 5,
+      "namaItem": "Laboratorium Bina Mutu",
+      "jenisFasilitas": "Fungsional",
+      "luas": 362
+    },
+    {
+      "no": 6,
+      "namaItem": "Selasar Pendaratan Ikan",
+      "jenisFasilitas": "Penunjang",
+      "luas": 98
+    },
+    {
+      "no": 7,
+      "namaItem": "Pos Satpam",
+      "jenisFasilitas": "Penunjang",
+      "luas": 76
+    },
+    {
+      "no": 8,
+      "namaItem": "Kantor Administrasi",
+      "jenisFasilitas": "Fungsional",
+      "luas": 409
+    },
+    {
+      "no": 9,
+      "namaItem": "Lahan Pelabuhan",
+      "jenisFasilitas": "Pokok",
+      "luas": 700
+    },
+    {
+      "no": 10,
+      "namaItem": "Los Pedagang",
+      "jenisFasilitas": "Penunjang",
+      "luas": 530
+    },
+    {
+      "no": 11,
+      "namaItem": "Masjid Nelayan",
+      "jenisFasilitas": "Penunjang",
+      "luas": 433
+    },
+    {
+      "no": 12,
+      "namaItem": "Gedung Perpustakaan",
+      "jenisFasilitas": "Fungsional",
+      "luas": 56
+    },
+    {
+      "no": 13,
+      "namaItem": "Cold Storage",
+      "jenisFasilitas": "Fungsional",
+      "luas": 238
+    },
+    {
+      "no": 14,
+      "namaItem": "Akses Jalan",
+      "jenisFasilitas": "Pokok",
+      "luas": 2000
+    },
+    {
+      "no": 15,
+      "namaItem": "Dermaga 2",
+      "jenisFasilitas": "Pokok",
+      "luas": 943
+    },
+    {
+      "no": 16,
+      "namaItem": "Dermaga 1",
+      "jenisFasilitas": "Pokok",
+      "luas": 533
+    },
+    {
+      "no": 17,
+      "namaItem": "Drainase",
+      "jenisFasilitas": "Pokok",
+      "luas": 432
+    },
+    {
+      "no": 18,
+      "namaItem": "Kapasitas Ideal Kolam 2",
+      "jenisFasilitas": "Pokok",
+      "luas": 41
+    },
+    {
+      "no": 19,
+      "namaItem": "Kapasitas Ideal Kolam 1",
+      "jenisFasilitas": "Pokok",
+      "luas": 160
+    },
+    {
+      "no": 20,
+      "namaItem": "Lapak Pedagang 2",
+      "jenisFasilitas": "Penunjang",
+      "luas": 325
+    },
+    {
+      "no": 21,
+      "namaItem": "Lapak Pedagang 1",
+      "jenisFasilitas": "Penunjang",
+      "luas": 865
+    },
+    {
+      "no": 22,
+      "namaItem": "Pos Peron 2",
+      "jenisFasilitas": "Penunjang",
+      "luas": 34
+    },
+    {
+      "no": 23,
+      "namaItem": "Pos Peron 1",
+      "jenisFasilitas": "Penunjang",
+      "luas": 43
+    },
+    {
+      "no": 24,
+      "namaItem": "Toko Logistik 2",
+      "jenisFasilitas": "Penunjang",
+      "luas": 87
+    },
+    {
+      "no": 25,
+      "namaItem": "Toko Logistik 1",
+      "jenisFasilitas": "Penunjang",
+      "luas": 76
+    }
+  ]
+}

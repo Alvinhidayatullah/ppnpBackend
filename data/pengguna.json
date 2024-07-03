@@ -1,0 +1,154 @@
+{
+  "pengguna": [
+    {
+      "no": 1,
+      "namaPengguna": "PT. ANTAM",
+      "tanggalBerakhir": "17 Feb 2023",
+      "totalLahan": 9.825
+    },
+    {
+      "no": 2,
+      "namaPengguna": "BITCOIN JAYA",
+      "tanggalBerakhir": "15 Feb 2023",
+      "totalLahan": 4.522
+    },
+    {
+      "no": 3,
+      "namaPengguna": "AGUS SOPIAN",
+      "tanggalBerakhir": "10 JDes 2023",
+      "totalLahan": 5.095
+    },
+    {
+      "no": 4,
+      "namaPengguna": "LAMHAT LAMHEUT",
+      "tanggalBerakhir": "12 Okt 2023",
+      "totalLahan": 4.343
+    },
+    {
+      "no": 5,
+      "namaPengguna": "JAENAL ABADI",
+      "tanggalBerakhir": "16 Feb 2023",
+      "totalLahan": 6.445
+    },
+    {
+      "no": 6,
+      "namaPengguna": "KOSIDAH",
+      "tanggalBerakhir": "29 Okt 2023",
+      "totalLahan": 2.342
+    },
+    {
+      "no": 7,
+      "namaPengguna": "CV. Matrial",
+      "tanggalBerakhir": "24 Okt 2023",
+      "totalLahan": 2.732
+    },
+    {
+      "no": 8,
+      "namaPengguna": "RAHMAT KOPRAL",
+      "tanggalBerakhir": "31 Mei 2023",
+      "totalLahan": 421
+    },
+    {
+      "no": 9,
+      "namaPengguna": "PT. KOCAK GEMING",
+      "tanggalBerakhir": "01 Jan 2023",
+      "totalLahan": 522
+    },
+    {
+      "no": 10,
+      "namaPengguna": "MAJU JAYA 188",
+      "tanggalBerakhir": "29 Jun 2023",
+      "totalLahan": 423
+    },
+    {
+      "no": 11,
+      "namaPengguna": "KOMISI JAYA",
+      "tanggalBerakhir": "12 Jul 2023",
+      "totalLahan": 632
+    },
+    {
+      "no": 12,
+      "namaPengguna": "PT. AGAM",
+      "tanggalBerakhir": "12 Nov 2023",
+      "totalLahan": 843
+    },
+    {
+      "no": 13,
+      "namaPengguna": "PT. ALKAISAR",
+      "tanggalBerakhir": "19 Jan 2023",
+      "totalLahan": 422
+    },
+    {
+      "no": 14,
+      "namaPengguna": "LALA PUTRA",
+      "tanggalBerakhir": "18 Agu 2023",
+      "totalLahan": 522
+    },
+    {
+      "no": 15,
+      "namaPengguna": "Aprizon",
+      "tanggalBerakhir": "12 Mei 2023",
+      "totalLahan": 982
+    },
+    {
+      "no": 16,
+      "namaPengguna": "PT. SURYA ABADI",
+      "tanggalBerakhir": "30 Agu 2023",
+      "totalLahan": 643
+    },
+    {
+      "no": 17,
+      "namaPengguna": "PAPAIPI",
+      "tanggalBerakhir": "19 Mar 2023",
+      "totalLahan": 743
+    },
+    {
+      "no": 18,
+      "namaPengguna": "PT. NIKMA",
+      "tanggalBerakhir": "24 Jan 2023",
+      "totalLahan": 532
+    },
+    {
+      "no": 19,
+      "namaPengguna": "PT. SANDAR BERDIRI",
+      "tanggalBerakhir": "09 Jan 2023",
+      "totalLahan": 883
+    },
+    {
+      "no": 20,
+      "namaPengguna": "JAYA 188",
+      "tanggalBerakhir": "28 Nov 2023",
+      "totalLahan": 570
+    },
+    {
+      "no": 21,
+      "namaPengguna": "MAJU JAYA",
+      "tanggalBerakhir": "16 Des 2023",
+      "totalLahan": 965
+    },
+    {
+      "no": 22,
+      "namaPengguna": "KUD MANDIRI",
+      "tanggalBerakhir": "29 Jan 2023",
+      "totalLahan": 743
+    },
+    {
+      "no": 23,
+      "namaPengguna": "CV. DUTA RATU",
+      "tanggalBerakhir": "10 Feb 2023",
+      "totalLahan": 543
+    },
+    {
+      "no": 24,
+      "namaPengguna": "PT. KOMISI",
+      "tanggalBerakhir": "30 Jan 2023",
+      "totalLahan": 832
+    },
+    {
+      "no": 25,
+      "namaPengguna": "CV. SINAR PERKASA",
+      "tanggalBerakhir": "12 Feb 2023",
+      "totalLahan": 831
+    }
+  ]
+}

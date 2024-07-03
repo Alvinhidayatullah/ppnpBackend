@@ -1,0 +1,186 @@
+{
+  "pasca": [
+    {
+      "no": 1,
+      "namaKapal": "MAJU JAYA 188",
+      "alatPancing": "Rawai Tuna",
+      "tanggalSetor": "29 Agu 2023",
+      "nilaiSetor": "Rp.1.321.000"
+    },
+    {
+      "no": 2,
+      "namaKapal": "MALVIN MAKMUR 5",
+      "alatPancing": "Rawai Tuna",
+      "tanggalSetor": "27 Agu 2023",
+      "nilaiSetor": "Rp.13.421.000"
+    },
+    {
+      "no": 3,
+      "namaKapal": "SETIA BHAKTI",
+      "alatPancing": "Pancing Ulur Tuna",
+      "tanggalSetor": "19 Jan 2023",
+      "nilaiSetor": "Rp.12.542.000"
+    },
+    {
+      "no": 4,
+      "namaKapal": "BINTANG PERKASA",
+      "alatPancing": "Pancing Ulur Tuna",
+      "tanggalSetor": "15 Nov 2023",
+      "nilaiSetor": "Rp.10.032.000"
+    },
+    {
+      "no": 5,
+      "namaKapal": "INDO MARINA 8",
+      "alatPancing": "Pancing Ulur Tuna",
+      "tanggalSetor": "24 Jul 2023",
+      "nilaiSetor": "Rp.91.324.000"
+    },
+    {
+      "no": 6,
+      "namaKapal": "MAJU JAYA 18",
+      "alatPancing": "Rawai Tuna",
+      "tanggalSetor": "28 Apr 2023",
+      "nilaiSetor": "Rp.13.432.000"
+    },
+    {
+      "no": 7,
+      "namaKapal": "MISI LAUTAN MAKMUR",
+      "alatPancing": "Pukat Cincing Pelagis",
+      "tanggalSetor": "16 Agu 2023",
+      "nilaiSetor": "Rp.41.422.000"
+    },
+    {
+      "no": 8,
+      "namaKapal": "ANUGRAH 30",
+      "alatPancing": "Rawai Tuna",
+      "tanggalSetor": "26 Des 2023",
+      "nilaiSetor": "Rp.94.422.000"
+    },
+    {
+      "no": 9,
+      "namaKapal": "LAYLA MARINA III",
+      "alatPancing": "Rawai Tuna",
+      "tanggalSetor": "19 Nov 2023",
+      "nilaiSetor": "Rp.32.311.000"
+    },
+    {
+      "no": 10,
+      "namaKapal": "KASIH ALAM",
+      "alatPancing": "Rawai Tuna",
+      "tanggalSetor": "19 Jun 2023",
+      "nilaiSetor": "Rp.76.543.000"
+    },
+    {
+      "no": 11,
+      "namaKapal": "JAYA MITRA 3",
+      "alatPancing": "Rawai Tuna",
+      "tanggalSetor": "29 Agu 2023",
+      "nilaiSetor": "Rp.21.321.000"
+    },
+    {
+      "no": 12,
+      "namaKapal": "YONG PUTRA 17",
+      "alatPancing": "Pukat Cincing Pelagis",
+      "tanggalSetor": "14 Jun 2023",
+      "nilaiSetor": "Rp.38.876.000"
+    },
+    {
+      "no": 13,
+      "namaKapal": "MINA JAYA",
+      "alatPancing": "Rawai Tuna",
+      "tanggalSetor": "30 Agu 2023",
+      "nilaiSetor": "Rp.91.543.000"
+    },
+    {
+      "no": 14,
+      "namaKapal": "CIPTA JAYA II",
+      "alatPancing": "Rawai Tuna",
+      "tanggalSetor": "21 Jan 2023",
+      "nilaiSetor": "Rp.31.685.000"
+    },
+    {
+      "no": 15,
+      "namaKapal": "CIPTA JAYA 88",
+      "alatPancing": "Pancing Tuna Ulur",
+      "tanggalSetor": "23 Mar 2023",
+      "nilaiSetor": "Rp.18.597.000"
+    },
+    {
+      "no": 16,
+      "namaKapal": "JAYA MITRA 2",
+      "alatPancing": "Pancing Tuna Ulur",
+      "tanggalSetor": "18 Agu 2023",
+      "nilaiSetor": "Rp.32.653.000"
+    },
+    {
+      "no": 17,
+      "namaKapal": "BINTANG TIMUR II",
+      "alatPancing": "Pancing Tuna Ulur",
+      "tanggalSetor": "25 Mei 2023",
+      "nilaiSetor": "Rp.23.755.000"
+    },
+    {
+      "no": 18,
+      "namaKapal": "JAYA MITRA VI",
+      "alatPancing": "Pancing Tuna Ulur",
+      "tanggalSetor": "26 Apr 2023",
+      "nilaiSetor": "Rp.12.325.000"
+    },
+    {
+      "no": 19,
+      "namaKapal": "CIPTA BARU JAYA",
+      "alatPancing": "Rawai Tuna",
+      "tanggalSetor": "25 Jan 2023",
+      "nilaiSetor": "Rp.54.322.000"
+    },
+    {
+      "no": 20,
+      "namaKapal": "BINTANG TIMUR II",
+      "alatPancing": "Rawai Tuna",
+      "tanggalSetor": "30 Des 2023",
+      "nilaiSetor": "Rp.32.432.000"
+    },
+    {
+      "no": 21,
+      "namaKapal": "CIPTA BARU JAYA",
+      "alatPancing": "Pancing Ulur",
+      "tanggalSetor": "12 Apr 2023",
+      "nilaiSetor": "Rp.31.534.000"
+    },
+    {
+      "no": 22,
+      "namaKapal": "JAYA MITRA 7",
+      "alatPancing": "Pancing Ulur Tuna",
+      "tanggalSetor": "28 Nov 2023",
+      "nilaiSetor": "Rp.67.941.000"
+    },
+    {
+      "no": 23,
+      "namaKapal": "ANUGRAH 30",
+      "alatPancing": "Pancing Ulur",
+      "tanggalSetor": "15 Mar 2023",
+      "nilaiSetor": "Rp.1.321.000"
+    },
+    {
+      "no": 24,
+      "namaKapal": "SAMUDRA JAYA 88",
+      "alatPancing": "Pancing Ulur",
+      "tanggalSetor": "16 Jan 2023",
+      "nilaiSetor": "Rp.2.344.000"
+    },
+    {
+      "no": 25,
+      "namaKapal": "JAYA MITRA 3",
+      "alatPancing": "Rawai Tuna",
+      "tanggalSetor": "29 Agu 2023",
+      "nilaiSetor": "Rp.21.321.000"
+    },
+    {
+      "no": 26,
+      "namaKapal": "JAYA MITRA 2",
+      "alatPancing": "Pancing Ulur Tuna",
+      "tanggalSetor": "25 Nov 2023",
+      "nilaiSetor": "Rp.19.321.000"
+    }
+  ]
+}

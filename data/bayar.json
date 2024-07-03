@@ -1,0 +1,160 @@
+{
+  "bayar": [
+    {
+      "no": 1,
+      "namaKapal": "MAJU JAYA 188",
+      "tanggalBayar": "29 Jan 2023",
+      "totalPendapatan": "Rp.12.322.211"
+    },
+    {
+      "no": 2,
+      "namaKapal": "MALVIN MAKMUR 5",
+      "tanggalBayar": "30 Mar 2023",
+      "totalPendapatan": "Rp.4.329.875"
+    },
+    {
+      "no": 3,
+      "namaKapal": "SETIA BHAKTI",
+      "tanggalBayar": "12 Agu 2023",
+      "totalPendapatan": "Rp.9.432.211"
+    },
+    {
+      "no": 4,
+      "namaKapal": "BINTANG PERKASA",
+      "tanggalBayar": "29 Des 2023",
+      "totalPendapatan": "Rp.5.321.331"
+    },
+    {
+      "no": 5,
+      "namaKapal": "INDO MARINA 8",
+      "tanggalBayar": "12 Des 2023",
+      "totalPendapatan": "Rp.12.322.211"
+    },
+    {
+      "no": 6,
+      "namaKapal": "MAJU JAYA 18",
+      "tanggalBayar": "01 Jan 2023",
+      "totalPendapatan": "Rp.3.212.211"
+    },
+    {
+      "no": 7,
+      "namaKapal": "MISI LAUTAN MAKMUR",
+      "tanggalBayar": "29 Jan 2023",
+      "totalPendapatan": "Rp.19.319.211"
+    },
+    {
+      "no": 8,
+      "namaKapal": "ANUGRAH 30",
+      "tanggalBayar": "29 Feb 2023",
+      "totalPendapatan": "Rp.9.322.393"
+    },
+    {
+      "no": 9,
+      "namaKapal": "LAYLA MARINA III",
+      "tanggalBayar": "19 Nov 2023",
+      "totalPendapatan": "Rp.39.432.121"
+    },
+    {
+      "no": 10,
+      "namaKapal": "KASIH ALAM",
+      "tanggalBayar": "29 Agu 2023",
+      "totalPendapatan": "Rp.31.312.211"
+    },
+    {
+      "no": 11,
+      "namaKapal": "JAYA MITRA 3",
+      "tanggalBayar": "15 Mar 2023",
+      "totalPendapatan": "Rp.12.322.211"
+    },
+    {
+      "no": 12,
+      "namaKapal": "YONG PUTRA 17",
+      "tanggalBayar": "10 Jan 2023",
+      "totalPendapatan": "Rp.90.123.211"
+    },
+    {
+      "no": 13,
+      "namaKapal": "MINA JAYA",
+      "tanggalBayar": "22 Mar 2023",
+      "totalPendapatan": "Rp.82.331.331"
+    },
+    {
+      "no": 14,
+      "namaKapal": "CIPTA JAYA II",
+      "tanggalBayar": "09 Jan 2023",
+      "totalPendapatan": "Rp.10.939.200"
+    },
+    {
+      "no": 15,
+      "namaKapal": "CIPTA JAYA 88",
+      "tanggalBayar": "07 Jan 2023",
+      "totalPendapatan": "Rp.12.492.989"
+    },
+    {
+      "no": 16,
+      "namaKapal": "JAYA MITRA 2",
+      "tanggalBayar": "04 Jan 2023",
+      "totalPendapatan": "Rp.11.842.781"
+    },
+    {
+      "no": 17,
+      "namaKapal": "BINTANG TIMUR II",
+      "tanggalBayar": "19 Apr 2023",
+      "totalPendapatan": "Rp.19.212.901"
+    },
+    {
+      "no": 18,
+      "namaKapal": "JAYA MITRA VI",
+      "tanggalBayar": "07 Agu 2023",
+      "totalPendapatan": "Rp.10.300.231"
+    },
+    {
+      "no": 19,
+      "namaKapal": "CIPTA BARU JAYA",
+      "tanggalBayar": "02 Jun 2023",
+      "totalPendapatan": "Rp.99.112.211"
+    },
+    {
+      "no": 20,
+      "namaKapal": "BINTANG TIMUR II",
+      "tanggalBayar": "06 Mei 2023",
+      "totalPendapatan": "Rp.53.531.642"
+    },
+    {
+      "no": 21,
+      "namaKapal": "CIPTA BARU JAYA",
+      "tanggalBayar": "19 Nov 2023",
+      "totalPendapatan": "Rp.98.376.321"
+    },
+    {
+      "no": 22,
+      "namaKapal": "JAYA MITRA 7",
+      "tanggalBayar": "17 Agu 2023",
+      "totalPendapatan": "Rp.65.722.893"
+    },
+    {
+      "no": 23,
+      "namaKapal": "ANUGRAH 30",
+      "tanggalBayar": "16 Feb 2023",
+      "totalPendapatan": "Rp.99.788.842"
+    },
+    {
+      "no": 24,
+      "namaKapal": "SAMUDRA JAYA 88",
+      "tanggalBayar": "02 Mar 2023",
+      "totalPendapatan": "Rp.46.632.333"
+    },
+    {
+      "no": 25,
+      "namaKapal": "JAYA MITRA 3",
+      "tanggalBayar": "29 Feb 2023",
+      "totalPendapatan": "Rp.31.993.899"
+    },
+    {
+      "no": 26,
+      "namaKapal": "JAYA MITRA 2",
+      "tanggalBayar": "12 Feb 2023",
+      "totalPendapatan": "Rp.33.992.392"
+    }
+  ]
+}
